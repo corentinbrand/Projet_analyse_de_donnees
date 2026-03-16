@@ -20,3 +20,6 @@ renv/
 .idea/
 .vscode/
 .Rproj.user
+
+# Dossiers locaux de travail
+mca/
